@@ -1,5 +1,5 @@
 # Click
-An app where we download image from internet using Flickr Api
+An app where we can download image from internet using Flickr Api
 
 Category                        | Search                       | MapSearch
 :------------------------------:|:----------------------------:|:-----------------------:
